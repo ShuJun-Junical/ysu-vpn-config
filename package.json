@@ -1,0 +1,22 @@
+{
+  "name": "ysu-vpn-cookie",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/fc20230330": "^3.0.3",
+    "crypto-js": "^4.2.0",
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "https-proxy-agent": "^7.0.4"
+  }
+}

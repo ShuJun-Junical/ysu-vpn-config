@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true,
+  // "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "npm.packageManager": "pnpm"
+}
